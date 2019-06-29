@@ -1,0 +1,42 @@
+---
+title: '123'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+library(leaflet)
+data=read.csv("~/Desktop/金大final/2000.csv",sep=';',fileEncoding = 'UTF-8',header = TRUE)
+pal <- colorFactor(c("navy", "red","#B9D3EE","#FFFAFA","#FFFF00","#00FF7F","#4682B4","#D2B486","#FFA54F","#FFE1FF","#7D26CD","#FF82AB","#AEEEEE","#FA8072","#C0FF3E","#FFB6C1","#EEDD82","#EE00EE","#4D4D4D","#CD661D"), domain = data$modularity_class)
+my_map=leaflet()%>%
+  addTiles()
+pop_radius=rep(10,2923)
+shanghai_map=my_map%>%
+  #addCircles(data = data,lng = ~lng,lat = ~lat,weight = 3,popup = ~Id,radius = ~pop_radius)%>%
+  addCircleMarkers(
+    data = data,lng = ~lng,lat = ~lat,weight = 3,popup = ~Id,radius = ~pop_radius,
+    color = ~pal(modularity_class),
+    stroke = FALSE, fillOpacity = 0.5)
+
+shanghai_map
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
