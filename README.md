@@ -14,9 +14,10 @@ Shining points:
 4. Overpower pisq-7 (ranked 43/58 in published [Elo Ratings](<https://gomocup.org/elo-ratings/>)) with a score of 13:7 and ranked 5/30 in the class  
 
 
-#### Bigdata Mining
 
-##### Spark-project [Report]()
+#### Large Scale Data Mining
+
+#### Spark-project [Report]()
 
 Technique: spark RDD，MLlib
 
