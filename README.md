@@ -37,15 +37,15 @@ Technique:  Spark TF-IDF, SVD
 
 ### Natural Language Processing
 
-#### Spelling Correction  [Report](Natural-Language-Processing/Homework 1/report.pdf)
+#### Spelling Correction  [Report](Natural-Language-Processing/Homework-1/report.pdf)
 
 Technique: Kneser-Ney smoothing [See my blog article](<https://dongfanker.github.io/2018/11/04/kneser-ney/>)
 
-#### Sentiment analysis [Report](Natural-Language-Processing/Homework 2/report.pdf)
+#### Sentiment analysis [Report](Natural-Language-Processing/Homework-2/report.pdf)
 
 Technique: Word2Vec 
 
-#### Chinese event extraction(Sequence Tagging) [Report](Natural-Language-Processing/Homework 3/report.pdf)
+#### Chinese event extraction(Sequence Tagging) [Report](Natural-Language-Processing/Homework-3/report.pdf)
 
 Technique: HMM, CRF model
 
@@ -53,7 +53,7 @@ Technique: HMM, CRF model
 
 ### Computer Network 
 
-#### English Corner      [Design document](Computer Network/Designed_doc.pdf)    [User document](Computer Network/Usage_doc.pdf)
+#### English Corner      [Design document](Computer-Network/Designed_doc.pdf)    [User document](Computer Network/Usage_doc.pdf)
 
 Technique:  UDP based client Chatting system
 
