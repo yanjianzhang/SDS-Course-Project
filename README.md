@@ -9,7 +9,7 @@ Shining points:
 
 2. Threat-space was used for must-win strategy 
 
-3.  Implemented the Numpy numerical operation on our own To compact the size of executive file (.exe)
+3.  Implemented the Numpy numerical operation on our own with List to compact the size of executive file (.exe)
 
 4. Overpower pisq-7 (ranked 43/58 in published [Elo Ratings](<https://gomocup.org/elo-ratings/>)) with a score of 13:7 and ranked 5/30 in the class  
 
