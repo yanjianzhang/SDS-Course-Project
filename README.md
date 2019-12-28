@@ -1,7 +1,7 @@
 # My-Course-Project
-#### Artificial Intelligence   
+### Artificial Intelligence   
 
-##### Gomoku Project [Report](Artificial Intelligence/report.pdf)  
+##### Gomoku Project [Report](Artificial-Intelligence/report.pdf)  
 
 Shining points:
 
@@ -15,37 +15,37 @@ Shining points:
 
 
 
-#### Large Scale Data Mining
+### Large Scale Data Mining
 
-#### Spark-project 
+##### Spark-project 
 
-Technique: spark RDD，MLlib    [Report1](Large Scale Data Mining/report1.pdf)    [Report2](Large Scale Data Mining/report2.pdf)
+Technique: spark RDD，MLlib    [Report1](Large-Scale-Data-Mining/report1.pdf)    [Report2](Large Scale Data Mining/report2.pdf)
 
 
 
-#### Distributed System
+### Distributed System
 
-##### Wiki with LSA [Report](Distributed System/Final Project/report.pdf)
+##### Wiki with LSA [Report](Distributed-System/Final Project/report.pdf)
 
 Technique:  Spark TF-IDF, SVD
 
-##### Hadoop Labs  [Report](Distributed System/homework2/hw2.pdf)
+##### Hadoop Labs  [Report](Distributed-System/homework2/hw2.pdf)
 
-##### HBase Labs [Report](Distributed System/homework5/hw5.pdf)
+##### HBase Labs [Report](Distributed-System/homework5/hw5.pdf)
 
 
 
-#### Natural Language Processing
+### Natural Language Processing
 
-##### Spelling Correction  [Report](Natural Language processing/Homework 1/report.pdf)
+##### Spelling Correction  [Report](Natural-Language-Processing/Homework 1/report.pdf)
 
 Technique: Kneser-Ney smoothing [See my blog article](<https://dongfanker.github.io/2018/11/04/kneser-ney/>)
 
-##### Sentiment analysis [Report](Natural Language processing/Homework 2/report.pdf)
+##### Sentiment analysis [Report](Natural-Language-Processing/Homework 2/report.pdf)
 
 Technique: Word2Vec 
 
-##### Chinese event extraction(Sequence Tagging) [Report](Natural Language processing/Homework 3/report.pdf)
+##### Chinese event extraction(Sequence Tagging) [Report](Natural-Language-Processing/Homework 3/report.pdf)
 
 Technique: HMM, CRF model
 
