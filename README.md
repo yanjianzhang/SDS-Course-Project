@@ -1,7 +1,7 @@
 # My-Course-Project
 #### Artificial Intelligence   
 
-##### Gomoku Project [Report](Artificial Intelligence/report.pdf)  
+##### Gomoku Project [Report](Artificial-Intelligence/report.pdf)  
 
 Shining points:
 
