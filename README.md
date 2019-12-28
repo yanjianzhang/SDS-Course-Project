@@ -53,7 +53,7 @@ Technique: HMM, CRF model
 
 ### Computer Network 
 
-#### English Corner      [Design document](Computer-Network/Designed_doc.pdf)    [User document](Computer Network/Usage_doc.pdf)
+#### English Corner      [Design document](Computer-Network/Designed_doc.pdf)    [User document](Computer-Network/Usage_doc.pdf)
 
 Technique:  UDP based client Chatting system
 
