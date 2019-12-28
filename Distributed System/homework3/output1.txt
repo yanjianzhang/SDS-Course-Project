@@ -1,0 +1,3 @@
+docx	1
+dwg	32
+jpg	9

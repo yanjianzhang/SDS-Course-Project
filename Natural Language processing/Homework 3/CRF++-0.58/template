@@ -1,0 +1,17 @@
+# Unigram template 模板
+# unigram-features一元特征  
+U00:%x[-2,0]  
+U01:%x[-1,0]  
+U02:%x[0,0]  
+U03:%x[1,0]  
+U04:%x[2,0]  
+# bigram-features二元特征
+U08:%x[-1,0]/%x[0,0]  
+U09:%x[0,0]/%x[1,0]  
+# trigram-featuress三元特征
+U05:%x[-2,0]/%x[-1,0]/%x[0,0]  
+U06:%x[-1,0]/%x[0,0]/%x[1,0]  
+U07:%x[0,0]/%x[1,0]/%x[2,0]  
+
+# Bigram template 模板
+B

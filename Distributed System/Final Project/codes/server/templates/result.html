@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Search Result</title>
+</head>
+
+<body>
+	<div id="container">
+		<div id="hd" class="ue-clear">
+			<form method="POST" action="/search" style=" width:380px; margin:30px auto;font-size: 14px;">
+				<input type="search" name="keyWord" value="{{keyWord}}" style="width: 260px;height: 30px; padding: 0 0 0 40px; font-size: 14px">
+				<input type="submit" value="search" style=" width:78px; height: 32px; background: white; color: black; text-align: center; font-size: 14px"> 
+			</form>
+		</div>
+
+		<div class="resultInfo" style=" width:380px; margin:30px auto;font-size: 12px;">
+			<p>
+				<span class="info">totally: <span>{{nums}}</span></span>
+				
+			</p>
+			<p>
+				<span class="info">cost: <span>{{time}} s</span></span>
+			</p>
+		</div>
+
+		<div class="resultList" >
+			{% for search in search_result %}
+			<div class="result" style=" width:380px; margin:30px auto;font-size: 14px;">
+				<div class="title">
+					<p><a style="color: red; text-align: left;">{{search.title}}</a></p>
+					<p><a style="color: blue; text-align: right;">{{search.relation}}</a></p>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+			
+	</div>
+</body>
+
