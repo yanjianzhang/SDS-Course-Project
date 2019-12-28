@@ -25,7 +25,7 @@ Technique: spark RDD，MLlib    [Report1](Large-Scale-Data-Mining/report1.pdf)  
 
 ### Distributed System
 
-#### Wiki with LSA [Report](Distributed-System/Final Project/report.pdf)
+#### Wiki with LSA [Report](Distributed-System/Final-Project/report.pdf)
 
 Technique:  Spark TF-IDF, SVD
 
