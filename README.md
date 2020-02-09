@@ -13,15 +13,11 @@ Shining points:
 
 4. Overpower pisq-7 (ranked 43/58 in published [Elo Ratings](<https://gomocup.org/elo-ratings/>)) with a score of 13:7 and ranked 5/30 in the class  
 
-
-
 ### Large Scale Data Mining
 
 #### Spark-project 
 
 Technique: spark RDD，MLlib    [Report1](Large-Scale-Data-Mining/report1.pdf)    [Report2](Large-Scale-Data-Mining/report2.pdf)
-
-
 
 ### Distributed System
 
@@ -49,11 +45,15 @@ Technique: Word2Vec
 
 Technique: HMM, CRF model
 
+#### Final PJ on SemEval2020  [Report](Natural-Language-Processing/Final-PJ/report.pdf)
 
+《Leverage Auto-generation for Commonsense Explanation》
+
+Technique: BERT, UniLM, OpenIE, GAN
 
 ### Computer Network 
 
-#### English Corner      [Design document](Computer-Network/Designed_doc.pdf)    [User document](Computer-Network/Usage_doc.pdf)
+#### English Corner  [Design document](Computer-Network/Designed_doc.pdf)    [User document](Computer-Network/Usage_doc.pdf)
 
 Technique:  UDP based client Chatting system
 

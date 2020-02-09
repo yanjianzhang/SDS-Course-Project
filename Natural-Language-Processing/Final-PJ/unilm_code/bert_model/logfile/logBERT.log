@@ -1,0 +1,356 @@
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Writing example 1000 of 8000
+Writing example 2000 of 8000
+Writing example 3000 of 8000
+Writing example 4000 of 8000
+Writing example 5000 of 8000
+Writing example 6000 of 8000
+Writing example 7000 of 8000
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=275, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+***** Running training *****
+  Num examples = 8000
+  Num epochs = 2
+  Instanteneous batch size per GPU = 5
+  Total train batch size (parallel & accumulation) = 5
+  Gradient accumulation steps = 1
+  Total optimization steps = 3200
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=100, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=8, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='_trp_sents', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train_trp_sents.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]', 'hair', '##cut', 'is', 'related', 'to', 'hair', '.', 'cut', 'is', 'very', 'like', 'hair', '##cut', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 2606 12690 2003 3141 2000 2606 1012 3013 2003 2200 2066 2606 12690 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]', 'mud', 'and', 'brown', 'are', 'very', 'similar', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 8494 1998 2829 2024 2200 2714 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/train.tsv
+Writing example 0 of 8000
+*** Example ***
+tokens: ['[CLS]', 'the', 'light', 'was', 'too', 'dim', 'so', 'i', 'began', 'reading', '[SEP]', 'i', 'read', 'until', 'the', 'light', 'was', 'too', 'dim', '[SEP]']
+guid: 7389
+input_ids: 101 1996 2422 2001 2205 11737 2061 1045 2211 3752 102 1045 3191 2127 1996 2422 2001 2205 11737 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'want', 'to', 'have', 'my', 'hair', 'cut', 'because', 'my', 'hair', 'is', 'too', 'short', '[SEP]', 'a', 'hair', '##cut', 'spend', 'a', 'lot', 'of', 'money', '[SEP]']
+guid: 9275
+input_ids: 101 1045 2215 2000 2031 2026 2606 3013 2138 2026 2606 2003 2205 2460 102 1037 2606 12690 5247 1037 2843 1997 2769 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'i', 'rolled', 'in', 'mud', 'to', 'get', 'clean', '.', '[SEP]', 'mud', 'is', 'usually', 'brown', '.', '[SEP]']
+guid: 2995
+input_ids: 101 1045 4565 1999 8494 2000 2131 4550 1012 102 8494 2003 2788 2829 1012 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+Writing example 1000 of 8000
+Writing example 2000 of 8000
+Writing example 3000 of 8000
+Writing example 4000 of 8000
+Writing example 5000 of 8000
+Writing example 6000 of 8000
+Writing example 7000 of 8000
+***** Running training *****
+  Num examples = 8000
+  Num epochs = 2
+  Instanteneous batch size per GPU = 5
+  Total train batch size (parallel & accumulation) = 5
+  Gradient accumulation steps = 1
+  Total optimization steps = 3200
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/test.tsv
+Writing example 0 of 2021
+*** Example ***
+tokens: ['[CLS]', 'he', 'put', 'an', 'elephant', 'into', 'the', 'fridge', '[SEP]', 'an', 'elephant', 'cannot', 'eat', 'a', 'fridge', '[SEP]']
+guid: 0
+input_ids: 101 2002 2404 2019 10777 2046 1996 16716 102 2019 10777 3685 4521 1037 16716 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: A (id = 0)
+*** Example ***
+tokens: ['[CLS]', 'my', 'sister', 'eats', 'a', 'stone', 'after', 'breakfast', 'every', 'day', '[SEP]', 'stone', 'is', 'too', 'large', 'for', 'a', 'girl', "'", 's', 'mouth', '[SEP]']
+guid: 1
+input_ids: 101 2026 2905 20323 1037 2962 2044 6350 2296 2154 102 2962 2003 2205 2312 2005 1037 2611 1005 1055 2677 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: B (id = 1)
+*** Example ***
+tokens: ['[CLS]', 'money', 'can', 'be', 'used', 'for', 'buying', 'stars', '[SEP]', 'stars', 'are', 'too', 'expensive', 'for', 'normal', 'people', '[SEP]']
+guid: 2
+input_ids: 101 2769 2064 2022 2109 2005 9343 3340 102 3340 2024 2205 6450 2005 3671 2111 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+attention_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+token_type_ids: 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+label: A (id = 0)
+Writing example 1000 of 2021
+Writing example 2000 of 2021
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/test.tsv
+Creating features from dataset file at ./dataset/task2/
+Looking at ./dataset/task2/test.tsv
+Writing example 0 of 2021
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')
+Training/evaluation parameters Namespace(adam_epsilon=1e-08, data_dir='./dataset/task2/', data_name='', device=device(type='cuda'), do_test=True, eval_step=None, gradient_accumulation_steps=1, learning_rate=7e-05, logging_steps=50, max_grad_norm=1.0, max_seq_length=95, n_gpu=1, num_train_epochs=2.0, output_dir='./model/fine_tuned/', per_gpu_eval_batch_size=8, per_gpu_train_batch_size=5, save_steps=50, seed=42, warmup_steps=0, weight_decay=0.0, wrong_file='./eval_result/task2.csv')

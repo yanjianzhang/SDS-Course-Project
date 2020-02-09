@@ -1,0 +1,22 @@
+1⃣ task1的label/logit 【not merge时，solo计算】
+1）训练：bertmodel.py -> class BertForTask1
+	- sent*的label为*的概率 VS 原始label的关系
+		· 原label=0 -> sent0错误（要选出错误项），则sent0的label应该为1（错误）， sent1的label为0（正确）
+		· 原label=1 -> sent1错误， 则sent0的label应该为0（正确），sent1的label为1（错误）
+		· sent0_label = 1-label       sent1_label = label
+
+2）预测：run_task1.py -> evaluate    &     utils_task1.py -> preds_decode(logits)
+	- model对于sent0, sent1分别计算logit组，[[sent0的label为0（正确）的概率, sent0的label为1（错误）的概率], 
+											[sent1的label为0（正确）的概率， sent1的label为1（错误）的概率]]
+    - 用这个len=2的logit组推测pred预测标签，idx=np.argmax(logits)
+    - idx = 0: sent0正确的概率最大 --> 错误的是sent1 --> pred label = 1
+    - idx = 1: sent0错误的概率最大 --> 错误的是sent0 --> pred label = 0
+    - idx = 2: sent1正确的概率最大 --> 错误的是sent0 --> pred label = 0
+    - idx = 3: sent1错误的概率最大 --> 错误的是sent1 --> pred label = 1
+
+
+2⃣ task1的两种model
+1） merge==True，把对错看成multiple choice, 两句话一起作为input输出model，input_ids[batch, 2, max_length]
+	- squeeze [batch*2, max_length]
+	- output logits [Aprob, Bprob]
+2) merge==False, 分别计算两句话各自的logit，用上面的函数得出pred label。两句话的loss做平均后输出
