@@ -1,4 +1,4 @@
-# My-Course-Project
+# SDS-Course-Project（School of Data Science Course Project）
 ### Artificial Intelligence   
 
 #### Gomoku Project [Report](Artificial-Intelligence/report.pdf)  
