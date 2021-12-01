@@ -60,6 +60,19 @@ Technique:  UDP based client Chatting system
 Shining points:
 
 1. Detailed User Document
-
 2. Diversity mode: Secret and Public, different language's own rooms
 3. Drop-down bar auto-completion 
+
+### Visualization
+
+Histogram image processing [Report](Data-Visualization/homework1/hw1.pdf)
+
+Image Thresholding algorithm [Report](Data-Visualization\homework2\hw2.pdf) 
+
+Image filter [Report](Data-Visualization\homework3\hw3.pdf) 
+
+Image affine  [Report](Data-Visualization\homework4\hw4.pdf) 
+
+Geographic visualization  [Report](Data-Visualization\homework5\homework5.pdf) 
+
+3D data visualization  [Report](Data-Visualization\homework6\homework6.pdf) 
