@@ -35,7 +35,7 @@ Technique:  Spark TF-IDF, SVD
 
 #### Spelling Correction  [Report](Natural-Language-Processing/Homework-1/report.pdf)
 
-Technique: Kneser-Ney smoothing [See my blog article](<https://dongfanker.github.io/2018/11/04/kneser-ney/>)
+Technique: Kneser-Ney smoothing [See my blog article](https://yanjianzhang.github.io/2018/kneser-ney/) 
 
 #### Sentiment analysis [Report](Natural-Language-Processing/Homework-2/report.pdf)
 
